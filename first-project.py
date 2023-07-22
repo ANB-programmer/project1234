@@ -1,6 +1,6 @@
 import random 
 
-n = random.randint(1,99)
+n = random.randint(1,98)
 
 hads = int(input("enter your number: "))
 
